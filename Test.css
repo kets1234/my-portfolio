@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+html{
+    background-color: bisque;
+}
+img{
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
